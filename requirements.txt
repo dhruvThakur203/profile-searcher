@@ -1,0 +1,5 @@
+openpyxl>=3.1
+rapidfuzz>=3.9
+pytest>=8.0
+playwright>=1.49
+pypdf>=5.0
